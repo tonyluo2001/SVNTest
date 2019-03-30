@@ -4,4 +4,6 @@ This marks the second commmit.
 
 This marks the third commit of this file.
 
-Update this file in a new working copy.
+Update this file in a new working copy.This marks the third commit of this file.
+
+Edit this file in the original working copy.
