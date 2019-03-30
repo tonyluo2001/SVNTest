@@ -1,3 +1,5 @@
 This is the third test file. I'm trying to add it without svn add.
 
 So, without svn add, this file won't be added to the repo.
+
+If we just revise a file, then we should just need to svn commit.
